@@ -25,23 +25,4 @@ button{
      border: none;
      background-color: #f5f5dc;
      color: #000000;
-     font-size: 1.8rem;
-     font-weight: bold;
-     cursor: pointer;
-}
-button:hover{
-    background-color: #fdfdc2;
-}
-button:active{
-    background-color: #dadaa6;
-}
-
-.operator-btn{
-    background: #add8ec;
-}
-.operator-btn:hover{
-    background: #cff0ff;
-}
-.operator-btn:active{
-    background: #71838b;
-}
+ 
