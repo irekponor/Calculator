@@ -5,22 +5,7 @@
     box-sizing: border-box;
     background: #add8ec;
     align-items: center;
-    text-align: center;
-}
-
-#calculator{
-    padding: 1rem 28rem;
-    font-family: Arial, sans-serif;
-    overflow: hidden;
-}
-
-#display{
-    color: rgb(0, 0, 0);
-    width: 100%;
-    padding: 20px;
-    font-size: 4rem;
-    text-align: left;
-    border: none;
+ 
     background: #aaa9a9;
 }
 
