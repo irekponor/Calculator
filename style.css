@@ -10,7 +10,7 @@
 
 #calculator{
     padding: 1rem 28rem;
-    font-family: Arial, sans-serif;
+    font-family: cursive;
     overflow: hidden;
 }
 
@@ -59,4 +59,25 @@ button:active{
 }
 .operator-btn:active{
     background: #71838b;
+}
+
+/* mobile */
+
+@media only screen and (max-width: 500px){
+    #calculator{
+       padding: 40px 20px;
+    }
+    #keys{
+        gap: 4px;
+        padding: 8px;
+    }
+}
+
+@media only screen and (min-width: 500px){
+    #calculator{
+       padding: 40px 20px;
+    }
+    #display{
+        width: 100%;  
+    }
 }
